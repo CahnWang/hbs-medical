@@ -6,6 +6,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - README.md
   - CELL.md
   - CSV.md
   - JSON.md
