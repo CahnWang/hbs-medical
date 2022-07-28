@@ -38,3 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 1. [CELL](_posts/CELL.md)
+2. [CELL](_posts/2022-07-28-CELL.md)
