@@ -14,5 +14,5 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 title: Cellular-Z
-description: []
-show_downloads: [false]
+description: doc
+show_downloads: false
