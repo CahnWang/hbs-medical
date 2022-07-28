@@ -7,8 +7,10 @@ relative_links:
   collections: true
 include:
   - README.md
-  - CELL.md
-  - CSV.md
-  - JSON.md
-  - MAIN.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
 title: Cellular-Z
